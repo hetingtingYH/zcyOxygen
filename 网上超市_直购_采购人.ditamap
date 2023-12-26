@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>网上超市（直购）-采购人</title>
+    <topicref href="Topics/%E7%BD%91%E4%B8%8A%E8%B6%85%E5%B8%82%E5%AE%9A%E4%B9%89.dita"/>
+    <topicref href="Topics/%E9%80%82%E7%94%A8%E8%8C%83%E5%9B%B4.dita"/>
+    <topicref href="Topics/%E7%BD%91%E4%B8%8A%E8%B6%85%E5%B8%82%E5%AE%9A%E4%B9%89.dita"/>
+    <topicref href="Topics/%E9%80%82%E7%94%A8%E8%8C%83%E5%9B%B4.dita"/>
+</map>

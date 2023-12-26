@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<val>
+    <prop action="include" att="otherprops" val="浙江"/>
+    <prop action="exclude" att="otherprops" val="新疆"/>
+    <prop action="exclude" att="otherprops" val="青海"/>
+    <prop action="exclude" att="otherprops" val="吉林"/>    
+    <prop action="exclude" att="otherprops" val="广西"/>
+    <prop action="exclude" att="otherprops" val="湖南"/>
+    <prop action="exclude" att="otherprops" val="江西"/>
+    <prop action="exclude" att="otherprops" val="贵州"/>
+    <prop action="exclude" att="otherprops" val="大连"/>
+</val>
