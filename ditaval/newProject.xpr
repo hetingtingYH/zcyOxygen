@@ -78,7 +78,7 @@
                                 <field name="filters">
                                     <ditavalFilters>
                                         <field name="useDitavalFilePath">
-                                            <Boolean>false</Boolean>
+                                            <Boolean>true</Boolean>
                                         </field>
                                         <field name="useAppliedConditionSet">
                                             <Boolean>false</Boolean>
