@@ -11,17 +11,19 @@
             <step>
                 <cmd> 进入<uicontrol>网上超市</uicontrol>页面。</cmd>
                 <info>
-                    <p>菜单路径：<menucascade>
-                            <uicontrol>前台大厅</uicontrol>
-                            <uicontrol>网上超市</uicontrol>
+                    <p>菜单路径：<menucascade
+                            conref="%E9%80%9A%E7%94%A8%E5%86%85%E5%AE%B9.dita#%E9%80%9A%E7%94%A8%E5%86%85%E5%AE%B9/menucascade_jlz_nhv_yzb">
+                            <uicontrol/>
                         </menucascade></p>
                 </info>
             </step>
             <step>
                 <cmd>在右上角搜索框，输入需要的商品名称，点击<uicontrol>搜索</uicontrol>。</cmd>
-                <info>
-                    <fig id="fig_tmw_1b5_yzb"/>
-                </info>
+                <info><fig id="fig_tmw_1b5_yzb">
+                        <image
+                            href="../Images/%E7%BD%91%E4%B8%8A%E8%B6%85%E5%B8%82%E5%89%8D%E5%8F%B0%E5%A4%A7%E5%8E%85-%E6%90%9C%E7%B4%A2.png"
+                            scale="100" id="image_qg5_lgv_yzb"/>
+                    </fig><b/></info>
             </step>
             <step>
                 <cmd>在搜索结果页面，浏览需要的商品，点击商品图片查看详情。</cmd>

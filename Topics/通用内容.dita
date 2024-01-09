@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="通用内容">
+    <title>通用内容</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p><menucascade id="menucascade_jlz_nhv_yzb">
+                <uicontrol>前台大厅</uicontrol>
+                <uicontrol>网上超市</uicontrol>
+            </menucascade></p>
+        <p><menucascade id="menucascade_gtp_vbc_zzb">
+                <uicontrol>前台大厅</uicontrol>
+                <uicontrol>网上超市</uicontrol>
+            </menucascade></p>
+        <p><menucascade id="menucascade_f25_vbc_zzb">
+                <uicontrol>前台大厅</uicontrol>
+                <uicontrol>网上超市</uicontrol>
+            </menucascade></p>
+    </conbody>
+</concept>
